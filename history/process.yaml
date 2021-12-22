@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-MFD35-02-PRESFB000-recovered_host-presf_abc_dcl_tide_measurement_recovered
 data_stream: CE07SHSM-MFD35-02-PRESFB000-recovered_host-presf_abc_dcl_tide_measurement_recovered
 end_date: '2021-03-27T20:28:13.251Z'
-last_updated: '2021-12-22T02:43:42.685282Z'
+last_updated: '2021-12-22T02:47:25.164150'
 start_date: '2016-05-05T19:30:01.884Z'
-status: pending
+status: success
